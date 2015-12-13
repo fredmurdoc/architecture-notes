@@ -16,4 +16,6 @@ published: false
  - blackfire.io
 
 ##runtimes
+[hhvm](http://hhvm.com/)
+
 
